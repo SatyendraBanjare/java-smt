@@ -1,0 +1,15 @@
+org.sosy_lab.java_smt
+org.sosy_lab.java_smt.api
+org.sosy_lab.java_smt.api.visitors
+org.sosy_lab.java_smt.basicimpl
+org.sosy_lab.java_smt.basicimpl.reusableStack
+org.sosy_lab.java_smt.basicimpl.tactics
+org.sosy_lab.java_smt.basicimpl.withAssumptionsWrapper
+org.sosy_lab.java_smt.example
+org.sosy_lab.java_smt.logging
+org.sosy_lab.java_smt.solvers.mathsat5
+org.sosy_lab.java_smt.solvers.princess
+org.sosy_lab.java_smt.solvers.smtinterpol
+org.sosy_lab.java_smt.solvers.z3
+org.sosy_lab.java_smt.test
+org.sosy_lab.java_smt.utils
